@@ -1,7 +1,7 @@
 # Hi, I'm Julio
 
 <img src="https://raw.githubusercontent.com/Claw-Hammer/Claw-Hammer/master/Julio_banner.png" alt="Claw-Hammer banner">
-I'm a senior software developer who is passionate about technology, coding, and music. Some technologies I enjoy working with include Laravel, CodeIgniter, Vue, Javascript and Docker.
+I'm a senior software developer who is passionate about coding, technology, and music. Some technologies I enjoy working with include PHP, Laravel, CodeIgniter, Vue, Javascript and Docker.
 
 
 ## Find me on the web 🌎:
