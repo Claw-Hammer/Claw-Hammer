@@ -6,5 +6,6 @@ I'm a senior software developer who is passionate about coding, technology, and 
 
 ## Find me on the web 🌎:
 
-- Playing with code at <a href="https://codepen.io/clawhammer"> Codepen</a> 🏓
+- Contributing with code at <a href="https://www.phpclasses.org/browse/author/1312972.html">PHPClasses.org</a>👨‍💻
+- Playing with code at <a href="https://codepen.io/clawhammer">Codepen</a> 🏓
 - My profile on <a href="https://www.linkedin.com/in/julio-vergara-0354a775/">LinkedIn</a> 💼
